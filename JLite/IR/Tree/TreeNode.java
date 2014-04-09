@@ -6,6 +6,7 @@ package IR.Tree;
  */
 public class TreeNode {
   public static final int INDENT=2;
+  String name;
   int numLine=-1;
 
   public String printNode(int indent) {

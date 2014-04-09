@@ -44,5 +44,8 @@ public class Sym {
   public static final int EXTENDS = 14;
   public static final int VOID = 15;
   public static final int NULL_LITERAL = 34;
+  public static final int DOUBLE_POINT_LITERAL =35;
+  public static final int FLOATING_POINT_LITERAL =36;
+  public static final int STRING_LITERAL =37;
 }
 
